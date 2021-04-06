@@ -1,0 +1,4 @@
+<vsk:PrintCodeRequest xmlns:vsk="http://www.vsk.ru">
+    <vsk:entityCode>PaymentOrder</vsk:entityCode>
+    <vsk:entityId>0000_ЗН5583462</vsk:entityId>
+</vsk:PrintCodeRequest>

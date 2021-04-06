@@ -1,0 +1,6 @@
+<tem:PrintStreamRequest xmlns:tem="http://www.vsk.ru">
+         <tem:Compression>1</tem:Compression>
+         <tem:ExportFormat>Pdf</tem:ExportFormat>
+         <tem:PrintFormTypeId>Receipt</tem:PrintFormTypeId>
+		 <tem:FileByteStream>cid:340546168984</tem:FileByteStream>
+      </tem:PrintStreamRequest>
